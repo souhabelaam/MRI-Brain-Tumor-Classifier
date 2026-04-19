@@ -45,9 +45,4 @@ Dataset obtained from Kaggle: **Brain Tumor MRI Dataset**
 - Evaluated using: Accuracy, Precision, Recall, and F1-score  
 - Generated a confusion matrix to analyze classification performance across tumor types  
 
----
 
-### ⚠️ Limitations  
-- Performance depends on dataset size and quality  
-- Risk of overfitting due to limited medical data  
-- Not intended for real-world medical diagnosis  
